@@ -25,8 +25,8 @@ Suppose you have been hired as Data Scientist of Health Man – a not for profit
  - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/tree/main/Project%20Design%20%26%20Planning/1.Ideation%20Phase)
  - [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/tree/main/Project%20Design%20%26%20Planning/2.Project%20Design%20phase%20I)
  - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/blob/main/1.Ideation_phase/2.EmpathyMap.pdf)
- - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/tree/main/Project%20Design%20%26%20Planning)
- - [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/tree/main/Project%20Design%20%26%20Planning)
+ - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/tree/main/Project%20Design%20%26%20Planning/3.Project%20Design%20phase%20II)
+ - [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957)
 
 ## 👍 Social Impact
  - Access to primary health care
