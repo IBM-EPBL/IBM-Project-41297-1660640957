@@ -54,7 +54,7 @@ Team Id : PNT2022TMID38936
 
 https://www.youtube.com/watch?v=PQs77KJlMA8
 
-## Webpage to view analyzed visualizations
+## Webpage To View Analyzed Visualizations
 https://mohamedzakirn02.wixsite.com/ibmproject
 
 ## Support
