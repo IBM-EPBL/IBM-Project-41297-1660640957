@@ -50,12 +50,11 @@ Team Id : PNT2022TMID38936
 - [@Sumaiya Farveen](https://www.github.com/sumaiya2206)
 
 
-**Project Demonstration Video Direct Link
-**
+## Project Demonstration Video Direct Link
+
 https://www.youtube.com/watch?v=PQs77KJlMA8
 
-**Webpage to view analyzed visualizations 
-**
+## Webpage to view analyzed visualizations
 https://mohamedzakirn02.wixsite.com/ibmproject
 
 ## Support
