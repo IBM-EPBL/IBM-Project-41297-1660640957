@@ -59,7 +59,7 @@ https://mohamedzakirn02.wixsite.com/ibmproject
 
 ## Support
 
-For support, please reach out to us at email slvijayendran@gmail.com # mohamedzakir.n02@gmail.com
+For support, please reach out to us at email slvijayendran@gmail.com || mohamedzakir.n02@gmail.com
 
 ![Logo](https://media1.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=790b7611df04fcf78be01764e6121ed07c106223750aabd6&rid=giphy.gif&ct=g)
 
