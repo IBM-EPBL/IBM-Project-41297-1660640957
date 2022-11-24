@@ -61,7 +61,7 @@ https://mohamedzakirn02.wixsite.com/ibmproject
 
 For support, please reach out to us at email slvijayendran@gmail.com || mohamedzakir.n02@gmail.com
 
-![Logo](https://media1.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=790b7611df04fcf78be01764e6121ed07c106223750aabd6&rid=giphy.gif&ct=g)
+<cemter> ![Logo](https://media1.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=790b7611df04fcf78be01764e6121ed07c106223750aabd6&rid=giphy.gif&ct=g) </center>
 
 
 **********|**| 🎓 Krishnasamy College Of Engineering And Technology |**|**********
