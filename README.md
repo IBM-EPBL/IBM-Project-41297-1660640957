@@ -54,20 +54,20 @@ Team Id : PNT2022TMID38936
 - [Click Here To View](https://github.com/IBM-EPBL/IBM-Project-41297-1660640957/blob/main/Final%20Delevirables/Analytics%20for%20Hospital's%20Health%20Care%20Data.pdf)
 
 
-## 🎥 Project Demonstration Video Direct Link
+## 🔗 Project Demonstration Video Direct Link
 
 https://www.youtube.com/watch?v=PQs77KJlMA8
 
 
-## 📹 Project Demonstration Video Direct Link (With Audio)
+## 🔗 Project Demonstration Video Direct Link (With Audio)
 
 https://www.youtube.com/watch?v=LeGwyr-5n0s
 
 
-## Webpage To View Analyzed Visualizations
+## 🌐 Webpage To View Analyzed Visualizations
 https://mohamedzakirn02.wixsite.com/ibmproject
 
-## Support
+## 🤝 Support
 
 For support, please reach out to us at email slvijayendran@gmail.com || mohamedzakir.n02@gmail.com
 
